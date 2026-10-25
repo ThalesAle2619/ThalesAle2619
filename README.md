@@ -15,4 +15,4 @@ Técnico em Desenvolvimento de Sistemas e graduando em Engenharia de Software na
 
 ## Contato
 
-- LinkedIn: [(https://www.linkedin.com/in/thales-alexandre-15a17j19t/)]
+- LinkedIn: [Thales Alexandre](https://www.linkedin.com/in/thales-alexandre-15a17j19t/)
