@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Thales 👋
 
-<!--
-**ThalesAle2619/ThalesAle2619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Técnico em Desenvolvimento de Sistemas e graduando em Engenharia de Software na UNICID. Estou construindo meu portfólio com projetos práticos, começando pelos fundamentos de programação e por jogos.
 
-Here are some ideas to get you started:
+## No que estou focado agora
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Fundamentos da linguagem **C**
+- **Python**
+- Projetos de desenvolvimento web (Front-End, Back-End e banco de dados)
+- HTML, CSS
+
+## Projetos
+
+- [estudos-c](https://github.com/ThalesAle2619/estudos-c): exercícios e projetos em C, incluindo um sistema bancário simplificado e uma Cifra de César didática
+
+## Contato
+
+- LinkedIn: [(https://www.linkedin.com/in/thales-alexandre-15a17j19t/)]
