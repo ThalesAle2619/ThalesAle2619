@@ -1,6 +1,7 @@
 <p align="center">
   <img src="capa_linkedin.gif" alt="Thales Alexandre, pixel art de programação e IA" width="100%">
 </p>
+
 # Olá, eu sou o Thales 👋
 
 Técnico em Desenvolvimento de Sistemas e graduando em Engenharia de Software na UNICID. Estou construindo meu portfólio com projetos práticos, começando pelos fundamentos de programação.
