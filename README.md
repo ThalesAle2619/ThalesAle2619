@@ -25,6 +25,7 @@ Ainda não tenho jogos publicados. Quando tiver, eles vão aparecer na seção d
 ## Projetos
 - [estudos-c](https://github.com/ThalesAle2619/estudos-c): exercícios e projetos em C, incluindo um sistema bancário simplificado e uma Cifra de César didática
 - [pygame](https://github.com/ThalesAle2619/pygame): estudos e projetos em Pygame, começando por uma capa animada em pixel art feita com ajuda de IA
+- [Click-Tree](https://github.com/ThalesAle2619/Click-Tree): Projeto de site focado no Desenvolvimento Sustentável, desenvolvido juntamente ao meu grupo: Richard, Ítalo, Nickyson, Igor
 
 ## Contato
 
